@@ -36,3 +36,4 @@ tramp
 # cask packages
 .cask/
 
+public/
